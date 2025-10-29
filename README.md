@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Valen
 
-<!--
-**Valentindrap/Valentindrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 19 años y soy estudiante apasionado por la tecnología y el desarrollo.  
+Me gusta aprender cosas nuevas todo el tiempo, sobre todo relacionadas con programación, robótica y creación de juegos.  
 
-Here are some ideas to get you started:
+Actualmente estoy mejorando mis habilidades en desarrollo web y en inglés técnico, y también explorando cómo hacer mis proyectos más creativos y funcionales.  
+Mi objetivo es seguir creciendo como desarrollador y aprender cada día un poco más.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías que uso o estoy aprendiendo
+- HTML, CSS, JavaScript  
+- PHP (con Laravel)  
+
+---
+
+> 💡 Siempre estoy abierto a aprender nuevas herramientas y mejorar mis proyectos.
